@@ -25,8 +25,8 @@ const decrement = (value) => {
 const initialState = {
   value: 0,
   properties: {
-    a: 5,
-    b: 6,
+    a: 6,
+    b: 7,
   },
 };
 
